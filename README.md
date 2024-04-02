@@ -1,4 +1,4 @@
-# DIGITAL BIRIRTHDAY CELEBRATION CARDS PROJECT
+# DIGITAL BIRTHDAY CELEBRATION CARDS PROJECT
 
 This project is a simple web application that allows users to send personalised birthday celebration cards to their friends and family.
 
