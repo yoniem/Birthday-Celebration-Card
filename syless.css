@@ -1,0 +1,132 @@
+/* Resetting default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #239ac2;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #187fa5;
+}
+
+/* Intro Section */
+.intro {
+  background-color: #f9f9f9;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.intro h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.intro p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.intro nav ul {
+  margin-top: 30px;
+}
+
+.intro nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.intro nav ul li a {
+  font-size: 1.1em;
+}
+
+/* Feature Section */
+.features {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 2.5em;
+  margin-bottom: 50px;
+}
+
+.feature {
+  margin-bottom: 50px;
+}
+
+.feature img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.feature h3 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+.feature p {
+  font-size: 1.1em;
+  color: #666;
+}
+
+/* About Section */
+.about {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2.5em;
+  margin-bottom: 50px;
+}
+
+.about p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+}
+
+.team-members {
+  margin-bottom: 30px;
+}
+
+.team-members li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.team-members li a {
+  font-size: 1.2em;
+}
