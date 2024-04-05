@@ -1,4 +1,4 @@
-# DIGITAL BIRTHDAY CELEBRATION CARDS PROJECT
+# DIGITAL BIRTHDAY CELEBRATION CARD PROJECT
 
 This project is a simple web application that allows users to send personalised birthday celebration cards to their friends and family.
 
@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! if you would like to contribute to this project, please follow these guidelines:
 - Submit bug reports or feature requests via the [issue tracker](https://github.com/yoniem/birthday-celebration-card/issues).
-- Fork the repository, make your changes, and submita pull request.
+- Fork the repository, make your changes, and submit a pull request.
 
 ## Licence
 
@@ -41,7 +41,7 @@ This project is provided under the [MIT Licence](https://opensource.org/licences
 
 ## Contact
 
-if you have any questions or suggestionsregarding this project, feel free to contact me:
+if you have any questions or suggestions regarding this project, feel free to contact me:
 - email: [yonimphini@gmail.com](https://github.com/yoniem)
 
 ## Acknowledgements
