@@ -1,4 +1,3 @@
-User
 body {
   display: flex;
   align-items: center;
@@ -161,4 +160,12 @@ p {
   margin: 30px;
   outline-color: #333;
   outline-style: dotted;
+}
+
+.deployed-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
 }
