@@ -3,7 +3,9 @@
 This project is a simple web application that allows users to send personalised birthday celebration cards to their friends and family.
 
 https://yoniem.github.io/Birthday-Celebration-Card/
+
 https://medium.com/@yonimphini/reflecting-on-my-digital-birthday-celebration-card-project-journey-93315e8cd381
+
 https://www.linkedin.com/posts/yonela-mphini-02b837221_reflecting-on-my-digital-birthday-celebration-activity-7183914937990205442-xoko?utm_source=share&utm_medium=member_desktop
 
 ## Technologies used
