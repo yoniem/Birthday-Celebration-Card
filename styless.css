@@ -35,10 +35,20 @@ ul {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  text-align: center;
+  margin-right: 10px; /* Add space between buttons */
 }
 
 .btn:hover {
   background-color: #187fa5;
+}
+
+/* Cover image style */
+.cover-img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
 }
 
 /* Intro Section */
@@ -129,4 +139,34 @@ ul {
 
 .team-members li a {
   font-size: 1.2em;
+}
+
+/* Footer Section */
+.footer {
+  padding: 30px 0;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.footer p {
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  list-style: none;
+}
+
+.contact-info li {
+  margin-bottom: 5px;
+}
+
+.contact-info li::before {
+  content: '';
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  background-color: #239ac2;
+  border-radius: 50%;
 }
